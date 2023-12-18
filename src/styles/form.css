@@ -1,0 +1,41 @@
+.form_header {
+	font-size: 36px;
+	margin-left: 15%;
+}
+
+.form {
+	width: 20%;
+	margin-left: 10%;
+	margin-top: 25px;
+}
+
+.form div {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+}
+
+.form input {
+	border-radius: 5px;
+	border: solid 3px #4EE8B6;
+}
+
+.form button {
+	color: #B34EE8;
+	background-color: #4EE8B6;
+	border-radius: 5px;
+	border: transparent;
+	padding: 5px;
+	font-size: 16px;
+}
+
+.form a {
+	color: #B34EE8;
+	background-color: #4EE8B6;
+	border-radius: 5px;
+	border: transparent;
+	padding: 5px;
+	text-decoration: none;
+}
